@@ -6,5 +6,5 @@
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@coxinhaswap/sdk-core/latest.svg)](https://bundlephobia.com/result?p=@coxinhaswap/sdk-core@latest)
 
 This code is shared across CoxinhaSwap TypeScript SDKs.
-# sdk-core
 
+# sdk-core

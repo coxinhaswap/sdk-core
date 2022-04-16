@@ -4,7 +4,6 @@ import { Token } from './token'
  * Known WETH9 implementation addresses, used in our implementation of Ether#wrapped
  */
 export const WETH9: { [chainId: number]: Token } = {
-
   [56]: new Token(56, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'WBNB', 'Wrapped BNB'),
   [25]: new Token(25, '0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23', 18, 'WBNB', 'Wrapped BNB'),
   [97]: new Token(97, '0x094616F0BdFB0b526bD735Bf66Eca0Ad254ca81F', 18, 'WCRO', 'Wrapped CRO'),
